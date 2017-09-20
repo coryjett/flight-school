@@ -13,6 +13,7 @@ resources:
     password: 1nn0v4t3
     organization: WWT-IT
     space: OpenSpace
+    skip_cert_check: true
 
 jobs:
 - name: test-app
